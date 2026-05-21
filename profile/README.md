@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Open Lousada — O dinheiro público de Lousada, em acesso aberto." width="100%" />
+<img src="banner.png" alt="Open Lousada — O dinheiro público de Lousada, em acesso aberto." width="100%" />
 
 ---
 
