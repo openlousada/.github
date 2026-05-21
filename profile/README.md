@@ -17,7 +17,7 @@
 
 Os dados são recolhidos de fontes oficiais — [base.gov.pt](https://base.gov.pt), [dados.gov.pt](https://dados.gov.pt) e documentos de prestação de contas — e disponibilizados de forma estruturada e pesquisável.
 
-**[openlousada.pt](https://openlousada.pt)**
+**[openlousada.com](https://openlousada.com)**
 
 ---
 
