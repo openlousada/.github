@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 200" width="960" height="200">
+  <!-- Background -->
+  <rect width="960" height="200" fill="#1A6B3C"/>
+
+  <!-- Wave pattern (two horizontal sine waves) -->
+  <path d="M 0 66 q 60 -48 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0" fill="none" stroke="rgba(245,242,236,0.10)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 0 133 q 60 -48 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0 t 120 0" fill="none" stroke="rgba(245,242,236,0.10)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Logo mark: scale(0.7) so 64px viewBox → ~45px, translate to top-left corner -->
+  <g transform="translate(40, 28) scale(0.7)" fill="none" stroke="#F5F2EC" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 22 12 L 12 12 L 12 52 L 22 52" stroke-width="3.6"/>
+    <path d="M 42 12 L 52 12 L 52 52 L 42 52" stroke-width="3.6"/>
+    <path d="M 16 26 L 48 26" stroke-width="3.6"/>
+    <path d="M 20 34 Q 20 26 32 26 Q 44 26 44 34" stroke-width="3.6"/>
+    <path d="M 15 40 q 4.25 -3.5 8.5 0 t 8.5 0 t 8.5 0 t 8.5 0" stroke-width="3.06"/>
+    <path d="M 15 46 q 4.25 -3.5 8.5 0 t 8.5 0 t 8.5 0 t 8.5 0" stroke-width="3.06"/>
+  </g>
+
+  <!-- Wordmark: vertically centred with mark (mark centre ≈ y 50) -->
+  <text x="82" y="55" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="600" fill="#F5F2EC">Open Lousada</text>
+
+  <!-- Headline line 1 (baseline y=112, top ≈ y=78 — clear of mark bottom ≈ y=64) -->
+  <text x="40" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#F5F2EC" letter-spacing="-0.3">O dinheiro público de Lousada,</text>
+
+  <!-- Headline line 2 italic (baseline y=152) -->
+  <text x="40" y="152" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-style="italic" fill="#E7F0EA" letter-spacing="-0.3">em acesso aberto.</text>
+
+  <!-- Footer -->
+  <text x="920" y="184" font-family="'Courier New', monospace" font-size="10" fill="rgba(245,242,236,0.55)" text-anchor="end" letter-spacing="1.5">OPENLOUSADA.PT</text>
+</svg>
