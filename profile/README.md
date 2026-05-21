@@ -4,7 +4,7 @@
 
 ## O que está no arquivo
 
-| | |
+| Dados | Cobertura |
 |---|---|
 | **Contratos** | Adjudicações do Portal Base · desde 2012 |
 | **Finanças** | Receitas, despesas e dívida municipal · 2012–2024 |
